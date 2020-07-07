@@ -37,7 +37,8 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/recursos/</guid>
-      <description>In Progress</description>
+      <description>Recopilación de recursos sobre Cuantificación Financiera En esta sección se lista diferente material recopilado relacionado con la Cuantificación Financiera.
+Cursos Online    Libros y Manuales  My life as a Quant de Emanuel Derman.  Un libro que describe el paso del mundo de la academia al mundo de las finanzas. De trabajar con premios Nobel a ser jefe del departamento de Cuantificación Financiera de Goldman &amp;amp; Sachs.</description>
     </item>
     
   </channel>
